@@ -5,3 +5,4 @@ function sayHi() {
 function sayBye() {
     alert('Goodbye fronm Git!');
 }
+// master
