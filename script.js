@@ -6,3 +6,4 @@ function sayBye() {
     alert('Goodbye fronm Git!');
 }
 // FEATURE
+// feature 2
